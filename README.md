@@ -13,7 +13,7 @@ The dataset contains 14 major variables that will be having an impact on whether
 #### 7. Symptoms: there are six families of symptoms that are coded in six fields.
 #### 13. Time_before_symptoms_appear:
 #### 14. Result: death (1) or recovered (0)
-It is required to design different classifiers to the predict the outcome (death/recovered) when a new person is admitted to the hospital.
+## It is required to design different classifiers to the predict the outcome (death/recovered) when a new person is admitted to the hospital.
 We need to design the following classifiers:
 ### 1. K-Nearest Neighbors
 ### 2. Logistic Regression
